@@ -40,3 +40,6 @@ npm start
 
 # OR using Yarn
 yarn start
+
+# Run 
+npx react-native run-android
