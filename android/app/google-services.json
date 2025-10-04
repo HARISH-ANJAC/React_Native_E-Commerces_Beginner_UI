@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420955013407",
+    "project_id": "stutzen-c2a29",
+    "storage_bucket": "stutzen-c2a29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420955013407:android:21e17dc2e1734c21dbf02a",
+        "android_client_info": {
+          "package_name": "com.rnassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcXh9dv_3m7LppGvYRpjpnybTPGxide9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
